@@ -14,7 +14,11 @@ scrapy crawl gank
 
 You will see images directory and enjot it 😊
 
+You can set the range of images in setting.py by changing the value of PULL_RANGE:
 
+```
+PULL_RANGE = 40
+```
 
 #License
 
